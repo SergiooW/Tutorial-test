@@ -1,3 +1,2 @@
 contenu fichier 1
-ajout ligne 2
 ajout ligne 3
